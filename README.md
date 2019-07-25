@@ -1,3 +1,4 @@
+Hi
 # ROM BUILDER
 #
 This repo is exclusively for [drone ci](https://cloud.drone.io/) to build ROM without hassle.
