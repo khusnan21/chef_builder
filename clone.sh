@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git clone https://github.com/LineageOS/android_kernel_motorola_msm8998 kernel/motorola/chef
+git clone https://github.com/LineageOS/android_kernel_motorola_msm8998 kernel/motorola/msm8998
 
 git clone https://github.com/LineageOS/android_packages_resources_devicesettings packages/resources/devicesettings
 
