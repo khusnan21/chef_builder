@@ -2,7 +2,7 @@
 
 # write commands if you want to clone some repos
 
-git clone https://github.com/yzfvyacheslavsky/device_xiaomi_kenzo device/xiaomi/kenzo
-git clone https://github.com/yzfvyacheslavsky/device_xiaomi_msm8956-common device/xiaomi/msm8956-common
-git clone https://github.com/AmolAmrit/Escrima_kernel_xiaomi_msm8956 kernel/xiaomi/msm8956
-git clone https://github.com/AmolAmrit/proprietary_vendor_xiaomi vendor/xiaomi
+git clone https://github.com/khusnan21/device_xiaomi_tissot device/xiaomi/tissot
+git clone https://github.com/Evolution-X-Devices/device_xiaomi_msm8953-common device/xiaomi/msm8953-common
+git clone https://github.com/Evolution-X-Devices/kernel_xiaomi_msm8953 kernel/xiaomi/msm8953
+git clone https://github.com/Evolution-X-Devices/proprietary_vendor_xiaomi vendor/xiaomi
