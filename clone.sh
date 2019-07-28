@@ -1,16 +1,8 @@
 #!/bin/bash
 
-git clone https://github.com/LineageOS/android_kernel_motorola_msm8998 kernel/motorola/msm8998
-
-git clone https://github.com/LineageOS/android_packages_resources_devicesettings packages/resources/devicesettings
-
-git clone https://github.com/Hasaber8/proprietary_vendor_motorola vendor/motorola
-
-git clone https://github.com/LineageOS/android_external_bson external/bson
-
-git clone https://github.com/LineageOS/android_system_qcom system/qcom
-
-git clone https://github.com/PixelExperience-Devices/device_motorola_sdm660-common -b pie device/motorola/sdm660-common
-
-
 # write commands if you want to clone some repos
+
+git clone https://github.com/yzfvyacheslavsky/device_xiaomi_kenzo device/xiaomi/kenzo
+git clone https://github.com/yzfvyacheslavsky/device_xiaomi_msm8956-common device/xiaomi/msm8956-common
+git clone https://github.com/AmolAmrit/Escrima_kernel_xiaomi_msm8956 kernel/xiaomi/msm8956
+git clone https://github.com/AmolAmrit/proprietary_vendor_xiaomi vendor/xiaomi

@@ -1,19 +1,19 @@
 #!/bin/bash
 
-GITHUB_USER=Hasaber8
-GITHUB_EMAIL=rohanhasabe8@gmail.com
+GITHUB_USER=yzfvyacheslavsky
+GITHUB_EMAIL=yzfvyacheslavsky@gmail.com
 
-KBUILD_BUILD_USER="HasabeR8"
-KBUILD_BUILD_HOST="A_DEAD_PLANET"
+KBUILD_BUILD_USER="yzfvyacheslavsky"
+KBUILD_BUILD_HOST="Telegram.org"
 
-export oem=motorola
-export device=chef
+export oem=xiaomi
+export device=kenzo
 
-ROM="PixelExperience"
-manifest_url="https://github.com/PixelExperience/manifest"
-export rom_vendor_name="aosp" # This represent the nams used by different rom vendors, Ex - aosp_harpia-userdebug, aosp is vendor name.
+ROM="RR"
+manifest_url="https://github.com/ResurrectionRemix/platform_manifest"
+export rom_vendor_name="rr" # This represent the nams used by different rom vendors, Ex - aosp_harpia-userdebug, aosp is vendor name.
 branch="pie"
 
-release_repo="Hasaber8/chef_builds"
+release_repo="yzfvyacheslavsky/chef_builds"
 
-timezone="Asia/Kolkata"
+timezone="Asia/Jakarta"
