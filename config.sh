@@ -14,6 +14,6 @@ manifest_url="https://github.com/ResurrectionRemix/platform_manifest"
 export rom_vendor_name="rr" # This represent the nams used by different rom vendors, Ex - aosp_harpia-userdebug, aosp is vendor name.
 branch="pie"
 
-release_repo="yzfvyacheslavsky/chef_builds"
+release_repo="yzfvyacheslavsky/builds"
 
 timezone="Asia/Jakarta"
